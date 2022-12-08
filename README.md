@@ -1,3 +1,3 @@
 # Inscription_Dark-Light
 
-Formulaire d'inscription simple accompagné d'un mode dark and light.
+Formulaire d'inscription simple accompagné d'une dark and light mode.
